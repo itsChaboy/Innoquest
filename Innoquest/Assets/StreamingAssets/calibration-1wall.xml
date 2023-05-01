@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CAVE>
+  <Sensor>
+    <Pos.X>-0.05806196</Pos.X>
+    <Pos.Y>2.125789</Pos.Y>
+    <Pos.Z>1.384072</Pos.Z>
+    <Rot.X>25.30008</Rot.X>
+    <Rot.Y>181.4123</Rot.Y>
+    <Rot.Z>0.436350733</Rot.Z>
+  </Sensor>
+  <Projectors>
+    <Projector>
+      <Pos.X>0.081</Pos.X>
+      <Pos.Y>2.4</Pos.Y>
+      <Pos.Z>-0.4</Pos.Z>
+      <Rot.Y>-0.842</Rot.Y>
+      <Rot.X>1.5444</Rot.X>
+      <Rot.Z>0</Rot.Z>
+      <Fy>-1.25</Fy>
+      <FOV>58.89</FOV>
+      <Display>1</Display>
+    </Projector>
+  </Projectors>
+  <Surfaces>
+    <Surface>
+      <!-- Front Wall -->
+      <Pos.X>0</Pos.X>
+      <Pos.Y>1.05</Pos.Y>
+      <Pos.Z>1.4</Pos.Z>
+      <Rot.X>-90</Rot.X>
+      <Rot.Y>0</Rot.Y>
+      <Rot.Z>0</Rot.Z>
+      <Size.X>2.8</Size.X> <!-- Width -->
+      <Size.Y>0.01</Size.Y>
+      <Size.Z>2.1</Size.Z><!-- Height -->
+      <Display>1</Display>
+    </Surface>
+  </Surfaces>
+</CAVE>

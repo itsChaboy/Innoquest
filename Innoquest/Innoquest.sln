@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innoquest", "Assembly-CSharp-firstpass.csproj", "{7DFF0F98-B8C5-2657-5E47-A783DFB9E27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innoquest", "Assembly-CSharp.csproj", "{43B3AE09-185A-9696-4680-B45F338FF112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innoquest", "Assembly-CSharp-Editor-firstpass.csproj", "{A76C5DD3-7514-56D1-EA5D-588C6226DE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFF0F98-B8C5-2657-5E47-A783DFB9E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFF0F98-B8C5-2657-5E47-A783DFB9E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFF0F98-B8C5-2657-5E47-A783DFB9E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFF0F98-B8C5-2657-5E47-A783DFB9E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B3AE09-185A-9696-4680-B45F338FF112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B3AE09-185A-9696-4680-B45F338FF112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B3AE09-185A-9696-4680-B45F338FF112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B3AE09-185A-9696-4680-B45F338FF112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76C5DD3-7514-56D1-EA5D-588C6226DE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C5DD3-7514-56D1-EA5D-588C6226DE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C5DD3-7514-56D1-EA5D-588C6226DE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C5DD3-7514-56D1-EA5D-588C6226DE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
